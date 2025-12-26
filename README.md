@@ -83,15 +83,10 @@
 ## 🔥 Recent Featured Papers
 <!--:triangular_flag_on_post:-->
 
-- **Assessment of camouflage in heterogeneous environments through deep learning: Analyzing object patterns and effectiveness** <br>
+- **Assessment of camouflage in heterogeneous environments through deep learning: Analyzing object patterns and effectiveness** <sub>![Static Badge](https://img.shields.io/badge/ACD1K-grey)</sub> <br>
   Ali Haider, Rana Hammad Raza <br>
   *EAAI*, 2026
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.sciencedirect.com/science/article/pii/S0952197625033457)</sub>
-
-- **Identification of camouflage military individuals with deep learning approaches DFAN and SINETV2** <br>
-  Ali Haider, Ghulam Muhammad, Talha Ahmed Khan, Kushsairy Kadir, Mohd Nizam Husen & Haidawati Mohamad Nasir <br>
-  *Scientific Reports*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.nature.com/articles/s41598-025-18886-y)</sub>
 
 - **Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations** `CaMF` <br>
   Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang <br>
@@ -140,7 +135,11 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2412.10943)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/ssecv/USCNet)</sub>
 
-
+- **Identification of camouflage military individuals with deep learning approaches DFAN and SINETV2** <br>
+  Ali Haider, Ghulam Muhammad, Talha Ahmed Khan, Kushsairy Kadir, Mohd Nizam Husen & Haidawati Mohamad Nasir <br>
+  *Scientific Reports*, 2025
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.nature.com/articles/s41598-025-18886-y)</sub>
+  
 
 --------------------------------------------------------------------------------------
 
@@ -210,8 +209,6 @@
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
-| EAAI<br><sup>2026</sup> | <sup>`--`</sup>  | Assessment of camouflage in heterogeneous environments through deep learning: Analyzing object patterns and effectiveness   <br> <sup><sub>*Ali Haider, Rana Hammad Raza*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457)\|Code
-| Scientific Reports<br><sup>2025</sup> | <sup>`DFAN`</sup>  | Identification of camouflage military individuals with deep learning approaches DFAN and SINETV2   <br> <sup><sub>*Ali Haider, Ghulam Muhammad, Talha Ahmed Khan, Kushsairy Kadir, Mohd Nizam Husen & Haidawati Mohamad Nasir*</sub></sup> | [Paper](https://www.nature.com/articles/s41598-025-18886-y)\|Code
 | ICCV<br><sup>2025</sup> | <sup>`Controllable-LPMoE`</sup>  | Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts   <br> <sup><sub>*Yanguang Sun, Jiawei Lian, Jian Yang, Lei Luo*</sub></sup> | [Paper](https://arxiv.org/abs/2510.21114)\|[Code](https://github.com/CSYSI/Controllable-LPMoE) |  
 | ICCV<br><sup>2025</sup> | <sup>`VL-SAM`</sup>  | Multi-modal Segment Anything Model for Camouflaged Scene Segmentation   <br> <sup><sub>*Guangyu Ren, Hengyan Liu, Michalis Lazarou, Tania Stathaki*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ren_Multi-modal_Segment_Anything_Model_for_Camouflaged_Scene_Segmentation_ICCV_2025_paper.html)\|[Code](https://github.com/ic-qialanqian/Vision-Language-SAM) | 
 | ICCV<br><sup>2025</sup> | <sup>`ARM`</sup>  | Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection   <br> <sup><sub>*Xuehan Chen, Guangyu Ren, Tianhong Dai, Tania Stathaki, Hengyan Liu*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Enhancing_Prompt_Generation_with_Adaptive_Refinement_for_Camouflaged_Object_Detection_ICCV_2025_paper.html)\|Code | 
@@ -225,10 +222,10 @@
 | ACMMM<br><sup>2025</sup> | <sup>`CGCOD`</sup> | CGCOD: Class-Guided Camouflaged Object Detection    <br> <sup><sub>*Chenxi Zhang, Qing Zhang, Jiayun Wu, Youwei Pang*</sub></sup>  | [Paper](https://arxiv.org/abs/2412.18977)\|[Code](https://github.com/bbdjj/CGCOD) 
 | ACMMM<br><sup>2025</sup> | <sup>`RDVP-MSD`</sup>  | Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation    <br> <sup><sub>*Chao Yin, Hao Li, Kequan Yang, Jide Li, Pinpin Zhu, Xiaoqiang Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2506.06818)\|[Code](https://github.com/ycyinchao/RDVP-MSD) 
 | ACMMM<br><sup>2025</sup> | <sup>`S2R-COD`</sup>  | Synthetic-to-Real Camouflaged Object Detection    <br> <sup><sub>*Zhihao Luo, Luojun Lin, Zheng Lin*</sub></sup>  | [Paper](https://arxiv.org/abs/2507.18911)\|[Code](https://github.com/Muscape/S2R-COD) 
+| CVPR<br><sup>2025</sup> | <sup>`WPFormer`</sup> | Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection   <br> <sup><sub>*Feng Yan, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen and Mingliang Xu*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf)\|[Code](https://github.com/iefengyan/WPFormer) 
 | IJCAI<br><sup>2025</sup> | <sup>`DPU-Former`</sup> | Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images  <sup><sub>``Tested on COD``</sub></sup> <br> <sup><sub>*Yanguang Sun, Jiexi Yan, Jianjun Qian, Chunyan Xu, Jian Yang, Lei Luo*</sub></sup>  | [Paper](https://www.ijcai.org/proceedings/2025/0213)\|[Code](https://github.com/CSYSI/DPU-Former) 
 | ICML<br><sup>2025</sup> | <sup>`RUN`</sup>  | RUN: Reversible Unfolding Network for Concealed Object Segmentation  <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.18783)\|[Code](https://github.com/ChunmingHe/RUN) 
-| AAAI<br><sup>2025</sup> | <sup>`CamObj-Llava`</sup> | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios  <sub>![Static Badge](https://img.shields.io/badge/MM--CamObj-grey)</sub>    <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)\|[Code](https://github.com/JCruan519/MM-CamObj)
-| CVPR<br><sup>2025</sup> | <sup>`WPFormer`</sup> | Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection   <br> <sup><sub>*Feng Yan, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen and Mingliang Xu*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf)\|[Code](https://github.com/iefengyan/WPFormer)
+| AAAI<br><sup>2025</sup> | <sup>`CamObj-Llava`</sup> | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios  <sub>![Static Badge](https://img.shields.io/badge/MM--CamObj-grey)</sub>    <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)\|[Code](https://github.com/JCruan519/MM-CamObj) 
 | ICME<br><sup>2025</sup> | <sup>`--`</sup> | Distraction Suppression and Feature Modulation Network for Camouflaged Object Detection   <br> <sup><sub>*Han Lyu; Meijun Sun; Haowei Ran; Yipu Liu; Xinyu Yan; Zheng Wang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11209969)\|Code 
 | WACV<br><sup>2025</sup> | <sup>`CamoFA`</sup> | CamoFA: A Learnable Fourier-Based Augmentation for Camouflage Segmentation   <br> <sup><sub>*Minh-Quan Le; Minh-Triet Tran; Trung-Nghia Le; Tam V. Nguyen; Thanh-Toan Do*</sub></sup> | [Paper](https://arxiv.org/abs/2308.15660)\|Code
 | WACV<br><sup>2025</sup> | <sup>`HDPNet`</sup> | HDPNet: Hourglass Vision Transformer with Dual-Path Feature Pyramid for Camouflaged Object Detection   <br> <sup><sub>*Jinpeng He; Biyuan Liu; Huaixin Chen*</sub></sup> | [Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i645/25KmxC36lWw)\|[Code](https://github.com/LittleGrey-hjp/HDPNet)
@@ -251,7 +248,9 @@
 | KBS<br><sup>2025</sup> | <sup>`BDCL-Net`</sup> | Bilateral decoupling complementarity learning network for camouflaged object detection  <sup><sub>*Rui Zhao, Yuetong Li, Qing Zhang, Xinyi Zhao*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059)\|[Code](https://github.com/iuueong/BDCLNet)
 | KBS<br><sup>2025</sup> | <sup>`ESNet`</sup> | ESNet: An Efficient Skeleton-guided Network for camouflaged object detection  <sup><sub>*Peng Ren, Tian Bai, Fuming Sun*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)\|Code
 | KBS<br><sup>2025</sup> | <sup>`xxx`</sup> | Multi-level cross-knowledge fusion with edge guidance for camouflaged object detection <sup><sub>*Wei Sun, Qianzhou Wang, Yulong Tian, Xiaobao Yang, Xianguang Kong, Yizhuo Dong, Yanning Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001170)\|Code 
-| KBS<br><sup>2025</sup> | <sup>`CODdiff`</sup> | CODdiff: Prior leading diffusion model for Camouflage Object Detection    <sup><sub>*Hong Zhang, Yixuan Lyu, Tian He, Xuliang Li, Yawei Li, Ding Yuan, Yifan Yang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004289?via%3Dihub)\|Code 
+| KBS<br><sup>2025</sup> | <sup>`CODdiff`</sup> | CODdiff: Prior leading diffusion model for Camouflage Object Detection    <sup><sub>*Hong Zhang, Yixuan Lyu, Tian He, Xuliang Li, Yawei Li, Ding Yuan, Yifan Yang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004289?via%3Dihub)\|Code  
+| EAAI<br><sup>2026</sup> | <sup>`--`</sup>  | Assessment of camouflage in heterogeneous environments through deep learning: Analyzing object patterns and effectiveness  <sub>![Static Badge](https://img.shields.io/badge/ACD1K-grey)</sub>   <br> <sup><sub>*Ali Haider, Rana Hammad Raza*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457)\|Code
+| Scientific Reports<br><sup>2025</sup> | <sup>`DFAN`</sup>  | Identification of camouflage military individuals with deep learning approaches DFAN and SINETV2   <br> <sup><sub>*Ali Haider, Ghulam Muhammad, Talha Ahmed Khan, Kushsairy Kadir, Mohd Nizam Husen & Haidawati Mohamad Nasir*</sub></sup> | [Paper](https://www.nature.com/articles/s41598-025-18886-y)\|Code
 | NeuCom<br><sup>2025</sup>  | <sup>`MambaCOD`</sup> | MambaCOD: Camouflaged object detection with state-space model  <br> <sup><sub>*Zhouyong Liu, Taotao Ji, Chunguo Li, Yongming Huang, Luxi Yang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225017151?via%3Dihub)\|Code 
 | NeuCom<br><sup>2025</sup>  | <sup>`MCNet`</sup> | More observation leads to more clarity: Multi-view collaboration network for camouflaged object detection  <br> <sup><sub>*Fangyan Wang, Ge Jiao, Guowen Yue*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225011051?via%3Dihub)\|Code  
 | NeuCom<br><sup>2025</sup>  | <sup>`SurANet`</sup> | SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy  <br> <sup><sub>*Yuhan Kang, Qingpeng Li, Leyuan Fang, Jian Zhao, Xuelong Li*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005351?via%3Dihub)\|[Code](https://github.com/kyh433/SurANet)  
@@ -715,7 +714,7 @@
 
 | **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
 | :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-[ACD1K](https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k) | 2026 | ICCV | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457) | Img | 1078 | &check;  | &check; |  | <sup><sub>Human-based camouflaged subjects</sub></sup>
+[ACD1K](https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k) | 2026 | EAAI | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457) | Img | 1078 | &check;  | &check; |  | <sup><sub>Human-based camouflaged subjects</sub></sup>
 [USC12K](https://github.com/ssecv/USCNet) | 2025 | ICCV | [Paper](https://arxiv.org/abs/2412.10943) | Img | 12000 |  | &check; |  | <sup><sub>Unconstrained salient & camouflaged object detection</sub></sup> 
 [R2C7K](https://github.com/zhangxuying1004/RefCOD) | 2025 | PAMI | [Paper](https://github.com/zhangxuying1004/RefCOD) | Img | 5015/1600(Ref) |  | &check; |  | <sup><sub>Referring COD</sub></sup> | 
 [PlantCamo](https://github.com/yjybuaa/PlantCamo) | 2025 | AIR | [Paper](https://arxiv.org/pdf/2410.17598) | Img | 1250 | &check; | &check; | &check; | <sup><sub>Plant COD</sub></sup>  |  
